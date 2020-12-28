@@ -37,7 +37,7 @@
   --font-family-body: "Work Sans", sans-serif;
   --color-darkpurple: #1a1053;
   --color-maroon: #b82a52;
-  --color-lightgreen: #28c9ae;
+  --color-orange: #ff4f0a;
   --color-lightgray: #f7a240;
   --color-offwhite: #f7f7f7;
 }
@@ -110,7 +110,7 @@ h3 {
 }
 
 /* #resume-btn:hover {
-  color: var(--color-lightgreen);
+  color: var(--color-orange);
 } */
 
 header {
@@ -245,7 +245,7 @@ footer {
 
 .btn:hover,
 .icon:hover {
-  background-color: var(--color-lightgreen);
+  background-color: var(--color-orange);
 }
 
 .horz-center {
