@@ -534,6 +534,10 @@ div > iframe {
     width: 75px;
   }
 
+  #stagehand-banner-diagram {
+    max-width: 120%;
+  }
+
   #stagehand-title-container {
     -ms-align-items: center;
     align-items: center;
@@ -612,7 +616,7 @@ div > iframe {
   }
 
   .stagehand-repo-btn {
-    font-size: 3vw;
+    font-size: 2.8vw;
     width: 180px;
   }
 
