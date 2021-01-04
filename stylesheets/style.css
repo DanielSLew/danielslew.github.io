@@ -425,10 +425,20 @@ div > iframe {
 
 #contact {
   padding-top: 50px;
+  background: var(--color-lightgray);
 }
 
 #contact h3 {
   margin-bottom: 10px;
+  color: var(--color-darkpurple);
+}
+
+#contact a {
+  color: var(--color-maroon);
+}
+
+#contact a:hover {
+  color: var(--color-orange);
 }
 
 #contact ul {
