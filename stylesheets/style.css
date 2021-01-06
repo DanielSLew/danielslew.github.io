@@ -140,7 +140,6 @@ header {
   -ms-align-items: flex-start;
   align-items: flex-start;
   margin-top: 75px;
-  flex-wrap: wrap;
 }
 
 #projects img {
